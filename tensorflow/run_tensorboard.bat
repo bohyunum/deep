@@ -1,0 +1,1 @@
+tensorboard --logdir=D:/deep/py/board/LinearRegression
